@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Aritra
-- 👀 I’m interested in DevOps and Anime
+- 👀 I’m interested in DevOps and Django.
 - 🌱 I’m currently learning everything and trying new fields
-- 💞️ I’m looking to collaborate on some FOSS projects and version management internship.
-- 📫 How to reach me -- just dm me here or on irumakun5105@gmail.com
-- 😄 Pronouns: hoola hoop
+- 💞️ I’m looking to collaborate on any projects related to fields like web dev, app dev, ai, django.
+- 📫 How to reach me -- just mail me on irumakun5105@gmail.com
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: i can sit underwater ...
 
 <!---
